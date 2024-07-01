@@ -78,7 +78,7 @@ AVAILABLE_BIKES=$($PSQL "SELECT bike_id, type, size FROM bikes WHERE available =
 }
 
 RETURN_MENU () {
-  echo Return Menu
+  
 }
 
 EXIT () {

@@ -237,3 +237,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql -U freecodecamp -f bikes.sql
 psql -U freecodecamp -f bikes.sql
 psql --username=freecodecamp --dbname=postgres
+./bike-shop.sh
